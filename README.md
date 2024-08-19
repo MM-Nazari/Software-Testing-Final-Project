@@ -1,4 +1,4 @@
-# Software-Testing-Final-project
+# SQL-Injection-Testing 
 
 ## Table of Contents
 - [Project Description](#project-description)
